@@ -1,0 +1,2 @@
+# Normalize line endings (to \n) of all files git determines to be text files.
+* text=auto
