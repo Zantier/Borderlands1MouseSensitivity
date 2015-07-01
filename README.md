@@ -1,4 +1,12 @@
 # Borderlands 1 Mouse Sensitivity
+
+## Warning!
+
+Do **not** use this for the time being.
+
+The contents of the profile.bin file change drastically based on other settings, so this project needs a lot of work.
+
+## Description
 Change the mouse sensitivity to values not possible from the in-game menu.
 
 Place set_mouse_sensitivity.py in your Borderlands save location,
